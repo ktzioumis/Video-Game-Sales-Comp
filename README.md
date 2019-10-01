@@ -1,2 +1,3 @@
 # competition
-kaggle competition for flatiron students to predict North American video game sales
+kaggle competition to predict North American video game sales<br>
+https://www.kaggle.com/c/flatironschool
